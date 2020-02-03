@@ -1,4 +1,4 @@
-#Algorithms with powershell
+# Algorithms with powershell
 
 A collection of program modules that make use of algorithms for file retrieval,
 string matching and other utility.
